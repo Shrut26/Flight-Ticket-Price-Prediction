@@ -1,1 +1,2 @@
 # Flight-Ticket-Price-Prediction
+Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story.This project predicts the price of flight tickets using the models trained on this [Dataset](https://docs.google.com/spreadsheets/d/e/2PACX-1vTVF_Hy83R3lxjXAOfhvAvVMf12s7SYbNIoUAmqcclSpolebRWUkjFONleBN59m8fkpLVhTZbmPkVUT/pub?output=csv)
